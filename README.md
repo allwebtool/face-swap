@@ -8,8 +8,8 @@ powered by [insightface](https://github.com/deepinsight/insightface).
 ### Clone this repository
 
 ```bash
-git clone https://github.com/ashleykleynhans/inswapper-flask-api.git
-cd inswapper-flask-api
+git clone https://github.com/allwebtool/face-swap.git
+cd face-swap
 ```
 
 ### Install the required Python dependencies
